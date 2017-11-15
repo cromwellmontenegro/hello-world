@@ -10,7 +10,7 @@ namespace PrintHelloWorld
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("");
+            Console.WriteLine("1234");
             Console.ReadLine();
         }
     }
